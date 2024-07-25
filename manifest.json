@@ -1,0 +1,7 @@
+{
+  "name": "Product Image Gallery",
+  "description": "A custom visualization to display product images in a gallery format.",
+  "scripts": ["https://raw.githubusercontent.com/d3vsuthar/looker-studio-custom-viz/main/script.js"],
+  "styles": ["https://raw.githubusercontent.com/d3vsuthar/looker-studio-custom-viz/main/style.css"],
+  "html": "https://raw.githubusercontent.com/d3vsuthar/looker-studio-custom-viz/main/template.html"
+}
